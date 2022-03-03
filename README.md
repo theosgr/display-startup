@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/project%20size-2.4To-green)
+
 # Start-up Display
 
 ## Contextualisation de la création de Display
