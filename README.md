@@ -26,7 +26,8 @@ Il suffit de cloner le site sur votre *desktop* et de suivre quelques étapes tr
 
 **Cloner le projet en local**
 - Récupérer le lien HTTPS du projet (ou SSH pour ceux qui ont associé leur clef avec git) 
- -  Bouton "Code" -> HTTPS -> Copier le lien dans la zone de texte
+ 
+  ->  Bouton "Code" -> HTTPS -> Copier le lien dans la zone de texte
 - git clone "lien HTTPS ou SSH" dans le répertoire souhaité
 - Se placer dans le dossier frontend
 - Faire un **yarn dev** ou **npm run start** pour lancer l'application sur le port 3000 (*localhost:3000*)
