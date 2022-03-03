@@ -14,16 +14,25 @@ Display est une agence évènementielle proposant des services aux entrerprises.
 
 Le site de Display centralisera toutes les informations nécessaires pour se renseigner et prendre contact avec nous pour réserver un créneau avec une offre.
 
+Il s'agit d'un site vitrine présentant nos offres, il n'y a donc pas de backend prévu. Toute cette gestion est géré par un CRM externe au contexte du site.
+
+L'intérêt du site est surtout de créer un support de contact entre clients et Display.  
+
 ### Déployer le site en local
 
-*TODO*
+Il suffit de cloner le site sur votre *desktop* et de suivre quelques étapes très simples : 
+
+**Cloner le projet en local**
+- Récupérer le lien HTTPS du projet (ou SSH pour ceux qui ont associé leur clef avec git) 
+* Bouton "Code" -> HTTPS -> Copier le lien dans la zone de texte
+- git clone "lien HTTPS ou SSH" dans le répertoire souhaité
+- Se placer dans le dossier frontend
+- Faire un yarn dev ou npm run start pour lancer l'application sur le port 3000 (localhost:3000)
+
+*Vous pouvez directement passer à l'étape 3 si vous avez téléchargé l'archive*  
 
 ---
 
 ## Choix des technologies utilisées
 
 Front : NextJS - React
-Back : NodeJS - Strapi
-
-Architecture logicielle : Docker - CI (Git)
-
