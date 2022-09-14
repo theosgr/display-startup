@@ -39,3 +39,6 @@ Il suffit de cloner le site sur votre *desktop* et de suivre quelques étapes tr
 ## Choix des technologies utilisées
 
 Front : NextJS - React
+Electron pour intégrer en application desktop
+
+Back : Dans l'idéal, utiliser Java serait la solution adéquate. Néanmoins, étant seul développeur sur le projet, il me paraît compliqué de devoir gérer toute cette complexité. 
